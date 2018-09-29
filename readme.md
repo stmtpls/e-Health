@@ -6,7 +6,7 @@ Using design methods and researching on tele-health solutions for international 
 
 #### Key take-aways from the project
 
-Throughout this project I understood the importance of thick data and design thinking in to empathize with the end user and develop innovative, solid and well targeted business solutions, creating a complete experience for the end user.
+Throughout this project I understood the importance of thick data and design thinking in order to empathize with the end user and develop innovative, solid and well targeted business solutions, creating a complete experience.
 
 ## Project Phases
 
