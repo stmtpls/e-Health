@@ -1,6 +1,6 @@
 # e-Health
 
-#### TLDR
+#### TL;DR
 
 Using design methods and researching on tele-health solutions for international MS students, I developed the prototype of an online platform satisfying their core needs and desires. The project consisted of 4 phases (building empathy, defining the challenge, ideating/prototyping and delivering leading ideas) summary of which are presented below.
 
